@@ -1,9 +1,7 @@
 public class mycalculator implements Calculator {
 	
-	
 	public static void main(String[] args) {
 		
-			
 	}
 
 	@Override
@@ -11,7 +9,6 @@ public class mycalculator implements Calculator {
 		// TODO Auto-generated method stub
 		return a+b;
 	}
-
 	@Override
 	public int subtract(int a, int b) {
 		// TODO Auto-generated method stub
