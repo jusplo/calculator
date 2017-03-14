@@ -14,7 +14,7 @@ public class Demo {
 		System.out.println("4)/");
 		String option = scanner.nextLine();
 	*/		
-		
+		System.out.println("Witaj w Malpim Kalkulatorze! W zasadzie to nie jest zaden kalkulator;] ");
 
 		System.out.println("Podaj pierwsza liczbe: ");
 		int a = scanner.nextInt();

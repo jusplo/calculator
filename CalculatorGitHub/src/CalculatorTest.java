@@ -6,7 +6,7 @@ public class CalculatorTest {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		assertEquals(1);
 	}
 
 }
